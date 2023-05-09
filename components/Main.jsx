@@ -30,7 +30,7 @@ export default function Main() {
           <p>What are your fun facts about yourself?</p>
         </section>
         <section className="about-me-img-container">
-          <img src='/images/picc.jpg' className='about-me-img'></img>
+          <img src='/images/golfing.jpg' className='about-me-img'></img>
         </section>
       </main>
     )
