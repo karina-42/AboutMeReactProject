@@ -6,7 +6,6 @@ body {
   margin: 0;
   font-family: Inter, sans-serif;
   background: #282D35;
-
 }
 
 .navbar {
@@ -29,7 +28,7 @@ body {
   font-weight: 600;
 }
 
-.img {
+.logo-img {
   height: 30px;
   margin-right: 10px;
 }
@@ -37,6 +36,8 @@ body {
 .main {
   padding: 57px 27px;
   color: #FFFFFF;
+  display: flex;
+  justify-content: space-around;
 }
 
 .main-title {
