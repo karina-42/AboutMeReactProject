@@ -33,6 +33,11 @@ body {
   margin-right: 10px;
 }
 
+/* .about-me-img {
+  min-width: 50%;
+  padding: 5em;
+} */
+ 
 .main {
   padding: 57px 27px;
   color: #FFFFFF;
@@ -41,14 +46,19 @@ body {
 }
 
 .main-info {
-  padding-right: 2em;
+  max-width: 50%;
 }
+
 .main-title {
   margin: 0;
   font-size: 40px;
   letter-spacing: -0.05em;    
 }
 
+.main-title-languages {
+  font-size: 1.5rem;
+}
+ 
 .main-list {
   margin-top: 46px;
 }
@@ -117,5 +127,6 @@ body {
   }
   .main-info {
     margin-top: 3em;
+    max-width: 100%;
   }
 }
