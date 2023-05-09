@@ -10,7 +10,7 @@ import { faInstagram } from "@fortawesome/free-brands-svg-icons"
 export default function Footer() {
   return (
     <footer className="footer">
-      <a href="mailto:karina.vegega@gmail.com" className="footer__link">karina.vegega@gmail.com</a>
+      <a href="mailto:karina.vegega@gmail.com" className="footer__link">Click here to send me an email</a>
       <ul className="social-list">
         <li className="social-list__item">
           <a href="https://github.com/karina-42/" className="social-list__link" target="_blank">
