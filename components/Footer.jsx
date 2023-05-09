@@ -1,5 +1,11 @@
 import React from "react"
-// target_blank
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faGithub } from "@fortawesome/free-brands-svg-icons"
+import { faTwitter } from "@fortawesome/free-brands-svg-icons"
+import { faLinkedin } from "@fortawesome/free-brands-svg-icons"
+import { faInstagram } from "@fortawesome/free-brands-svg-icons"
+
+
 
 export default function Footer() {
   return (
@@ -8,12 +14,12 @@ export default function Footer() {
       <ul className="social-list">
         <li className="social-list__item">
           <a href="https://github.com/karina-42/" className="social-list__link" target="_blank">
-            <i className="fa-brands fa-github"></i>
+            <FontAwesomeIcon icon={faGithub} />
           </a>
         </li>
         <li className="social-list__item">
           <a href="https://twitter.com/momentOfEureka" className="social-list__link" target="_blank">
-            <i className="fa-brands fa-twitter"></i>
+          <FontAwesomeIcon icon={faTwitter} />
           </a>
         </li>
         <li className="social-list__item">
@@ -23,12 +29,12 @@ export default function Footer() {
         </li>
         <li className="social-list__item">
           <a href="https://www.linkedin.com/in/angela-karina-vegega-ortiz/" className="social-list__link" target="_blank">
-            <i className="fa-brands fa-linkedin"></i>
+            <FontAwesomeIcon icon={faLinkedin} />
           </a>
         </li>
         <li className="social-list__item">
           <a href="https://www.instagram.com/saintdarthbijin/" className="social-list__link" target="_blank">
-            <i className="fa-brands fa-instagram"></i>
+            <FontAwesomeIcon icon={faInstagram} />
           </a>
         </li>
       </ul>
