@@ -40,6 +40,9 @@ body {
   justify-content: space-around;
 }
 
+.main-info {
+  padding-right: 2em;
+}
 .main-title {
   margin: 0;
   font-size: 40px;
@@ -106,4 +109,13 @@ body {
 
 .footer__wantedly-img {
   width: 1.8em;
+}
+
+@media (max-width: 600px) {
+  .main {
+    flex-direction: column-reverse;
+  }
+  .main-info {
+    margin-top: 3em;
+  }
 }
