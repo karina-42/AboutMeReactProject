@@ -22,7 +22,7 @@ Inspired by a [Scrimba](https://scrimba.com/) React tutorial, I decided to try m
 * JavaScript
 
 ## Lessons learned
-I learned how to use Vite to set up and develop a React app quickly. I learned how to separate my app into components and how into import and export the data through different files. I also learned how to use Font Awesome properly within a React app. I wanted to use different languages in my site, so I learned how to handle different languages in the HTML for better user experience.
+I learned how to use Vite to set up and develop a React app quickly. For deploying with Vite on Netlify I learned I must put my 'images' folder in a 'public' folder. I learned how to separate my app into components and how into import and export the data through different files. I also learned how to use Font Awesome properly within a React app. I wanted to use different languages in my site, so I learned how to handle different languages in the HTML for better user experience.
 
 ## Improvements
 - [ ] Have translations of each sentence appear on hover.
