@@ -13,7 +13,7 @@ export default function Main() {
                 <li className="main-list-item">I love food and can eat anything</li>                
             </ul>
         </section>
-        <img src='../images/picc.jpg' className='about-me-img'></img>
+        <img src='/images/picc.jpg' className='about-me-img'></img>
       </main>
     )
 }
