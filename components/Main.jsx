@@ -8,7 +8,7 @@ export default function Main() {
             <li className="main-list-item">I'm learning how to play golf now</li>
             <li className="main-list-item">I do weight training 5 days a week</li>
             <li className="main-list-item">I can speak Spanish, English, and Japanese</li>
-            <li className="main-list-item">I broke my neck in a car accident</li>
+            <li className="main-list-item">I broke my neck in a car accident (but I'm fine now, aside from some neck and shoulder pains every once in a while)</li>
             <li className="main-list-item">I love food and can eat anything</li>                
         </ul>
       </main>
