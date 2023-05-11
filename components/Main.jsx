@@ -18,9 +18,9 @@ export default function Main() {
                   <span lang="ja"> 英語とスペイン語は同時に習った。</span> 
                   <span lang="es">El japonés lo aprendí en la universidad y después al vivir en Japón.</span>
                 </li>
-                <li className="main-list-item">I broke my neck in a car accident (but I'm fine now, aside from some neck and shoulder pains every once in a while). 
-                  <span lang="ja"> 肩こりがヤバいです。</span>
-                  <span lang="es">Tuve suerte de no tener peores heridas así que todo los días estoy agradecida.</span>
+                <li className="main-list-item">I don't like cold weather. 
+                  <span lang="ja"> 寒がりなのでユニクロのヒートテックが良く着る。</span>
+                  <span lang="es">Todavía no me acostumbro al frío del invierno de Japón.</span>
                 </li>
                 <li className="main-list-item">I love food and can eat anything. 
                   <span lang="ja"> ピザやすき焼きが大好き。</span>
