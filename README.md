@@ -3,7 +3,7 @@ My first React project, a simple page to get to know me better.
 
 ## Visit here: [About me](https://about-karina.netlify.app/)
 
-![screenshot](https://res.cloudinary.com/dslxa2yhi/image/upload/v1683640883/portfolioReadmeScreenshots/rpamscreen_dt0cjt.png)
+![screenshot](https://res.cloudinary.com/dslxa2yhi/image/upload/v1683772313/portfolioReadmeScreenshots/rpamscreen_hqzxpn.png)
 
 ## Table of Contents
 * [Introduction](#introduction)
